@@ -1,4 +1,4 @@
-"""Redis exporter"""
+"""Redis exporter - based on https://trstringer.com/quick-and-easy-prometheus-exporter/"""
 
 import os
 import time
